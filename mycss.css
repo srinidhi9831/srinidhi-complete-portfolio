@@ -91,10 +91,9 @@ body{
 }
 
 .blog-img .hero-img{
-    max-width: 800px;
-    display: block;
+    max-width: fit-content;
+    display: inline;
     margin: auto;
-
 }
 
 .hero .hero-heading{

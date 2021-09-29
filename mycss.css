@@ -120,6 +120,7 @@ footer{
     text-align: center;
     color: white;
     border-bottom-right-radius:1rem;
+    margin-top: 15px;
 }
 
 .footer .link{

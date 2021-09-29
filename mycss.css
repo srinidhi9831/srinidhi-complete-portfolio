@@ -90,6 +90,13 @@ body{
 
 }
 
+.blog-img .hero-img{
+    max-width: 800px;
+    display: block;
+    margin: auto;
+
+}
+
 .hero .hero-heading{
     padding-top: 1rem;
     color: black;

@@ -113,14 +113,14 @@ body{
     background-color: var(--off-white);
 }
 
-footer{
+.footer{
     background-color:   
     #111827;
     padding: 2rem 1rem;
     text-align: center;
     color: white;
     border-bottom-right-radius:1rem;
-    margin-top: 15px;
+    margin-top: 25vh;
 }
 
 .footer .link{
@@ -135,4 +135,19 @@ footer{
 
 .footer ul{
     padding-inline-start: 0px;
+}
+
+.blog-img{
+    margin-top: 10vh;
+    text-align: center;
+
+}
+
+.h-blog{
+    padding-left: 10px;
+}
+
+.p-blog{
+    letter-spacing: 1px;
+    padding: 1px;
 }
